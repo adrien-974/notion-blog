@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Adrien-974',
 
   // open graph metadata (optional)
-  description: 'Espace de partage de tutoriels sur l\'application Notion.',
+  description: 'notion-blog est un espace de partage regroupant les tutoriels sur notion.so en français...',
 
   // social usernames (optional)
   twitter: '',
