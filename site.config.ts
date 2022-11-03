@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Adrien-974',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Espace de partage de tutoriels sur l\'application Notion.',
 
   // social usernames (optional)
   twitter: '',
