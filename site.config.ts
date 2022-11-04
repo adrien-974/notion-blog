@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Adrien-974',
 
   // open graph metadata (optional)
-  description: 'Découvrez un espace de partage qui rassemble les tutoriels notion en français sur l’intégration avec iOS, création de blog, de tableau de bord, de page modèle.',
+  description: 'Espace de partage qui rassemble les tutoriels Notion en français. Intégration Make, Integromat, iOS, création de blog, tableau de bord, formule, page modèle.',
 
   // social usernames (optional)
   twitter: '',
